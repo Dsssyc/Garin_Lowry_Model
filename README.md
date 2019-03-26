@@ -21,7 +21,7 @@ These files include different means to implement Garin-Lowry Model, which must h
             
 &
 ==
-Thanks for `PyWPS`:https://pywps.org/<br>
+Thanks for `PyWPS`: https://pywps.org/<br>
 
 
 My `Blog`: https://www.dsssyc.xin
