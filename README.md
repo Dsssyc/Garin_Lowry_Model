@@ -6,7 +6,7 @@ This repository is used to store codes about different ways to implement Garin-L
 All code files contain information about Soku's server, please modify them if you want to use it yourself.
 
 ## interface.py
-interface.py is a module containing functions which may be similar in files named garin_lowry_x。<br>
+[interface.py](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/interface.py) is a module containing functions which may be similar in files named garin_lowry_x。<br>
 You can also use this script to create XML request files.<br>
 <b>Do not upload interface.py into the `processes` folder</b><br>
 
