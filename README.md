@@ -11,8 +11,14 @@ You can also use this script to create XML request files.<br>
 <b>Do not upload interface.py into the `processes` folder</b><br>
 
 ## garin_Lory_x.py
-These files include different means to implement Garin-Lowry Model, which must have support from interface.py.
-
+These files include different means to implement Garin-Lowry Model, which must have support from interface.py.<br>
+    Means contains:
+        LiteralData
+            [String](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_literal.py)
+        ComplexData
+            [Text/Plain](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_text.py)
+            [Json](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_json.py)
+            
 &
 ==
 Thanks for [PyWPS](https://pywps.org/)<br>
