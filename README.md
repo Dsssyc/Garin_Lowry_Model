@@ -15,6 +15,7 @@ These files include different means to implement Garin-Lowry Model, which must h
 >Means contain:
 >>LiteralData
 >>>[String](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_literal.py)
+
 >>ComplexData
 >>>[Text/Plain](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_text.py)<br>
 >>>[Json](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_json.py)
