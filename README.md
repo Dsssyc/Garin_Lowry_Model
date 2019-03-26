@@ -7,7 +7,8 @@ All code files contain information about Soku's server, please modify them if yo
 
 ## interface.py
 interface.py is a module containing functions which may be similar in files named garin_lowry_x。
+You can also use this script to create XML request files.
 Do not upload interface.py into the processes folder
 
 ## garin_Lory_x.py
-These files include different means to implement Garin-Lowry Model. 
+These files include different means to implement Garin-Lowry Model, which must have support from interface.py.
