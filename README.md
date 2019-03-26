@@ -12,14 +12,15 @@ You can also use this script to create XML request files.<br>
 
 ## garin_Lory_x.py
 These files include different means to implement Garin-Lowry Model, which must have support from interface.py.<br>
-    Means contains:
-        LiteralData
-            [String](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_literal.py)
-        ComplexData
-            [Text/Plain](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_text.py)
-            [Json](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_json.py)
+>Means contains:
+>>LiteralData
+>>>[String](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_literal.py)
+
+>>ComplexData
+>>>[Text/Plain](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_text.py)<br>
+>>>[Json](https://github.com/Dsssyc/Garin_Lowry_Model/blob/master/garin_lowry_json.py)
             
 &
 ==
-Thanks for [PyWPS](https://pywps.org/)<br>
+Thanks for PyWPS:https://pywps.org/<br>
 My Blog: https://www.dsssyc.xin
